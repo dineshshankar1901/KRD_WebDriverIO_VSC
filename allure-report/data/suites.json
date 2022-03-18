@@ -5,13 +5,13 @@
     "name" : "The Internet Guinea Pig Website: As a user, I can log into the secure area",
     "children" : [ {
       "name" : "When I login with tomsmith and SuperSecretPassword!",
-      "uid" : "9e31029f5b98312f",
+      "uid" : "9a159b1841641ce9",
       "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
       "status" : "passed",
       "time" : {
-        "start" : 1647583717818,
-        "stop" : 1647583718445,
-        "duration" : 627
+        "start" : 1647590215540,
+        "stop" : 1647590216037,
+        "duration" : 497
       },
       "flaky" : false,
       "newFailed" : false,
@@ -22,13 +22,13 @@
       "parameters" : [ "chrome-99.0.4844.51" ]
     }, {
       "name" : "Then I should see a flash message saying You logged into a secure area!",
-      "uid" : "c9b298ecdc8683f6",
+      "uid" : "928b046c415ebfb4",
       "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
       "status" : "passed",
       "time" : {
-        "start" : 1647583718446,
-        "stop" : 1647583718589,
-        "duration" : 143
+        "start" : 1647590216037,
+        "stop" : 1647590216125,
+        "duration" : 88
       },
       "flaky" : false,
       "newFailed" : false,
@@ -39,13 +39,13 @@
       "parameters" : [ "chrome-99.0.4844.51" ]
     }, {
       "name" : "Given I am on the login page",
-      "uid" : "260be1882e3845f",
+      "uid" : "aacc77910f4db97f",
       "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
       "status" : "passed",
       "time" : {
-        "start" : 1647583718621,
-        "stop" : 1647583718752,
-        "duration" : 131
+        "start" : 1647590216139,
+        "stop" : 1647590216260,
+        "duration" : 121
       },
       "flaky" : false,
       "newFailed" : false,
@@ -56,13 +56,13 @@
       "parameters" : [ "chrome-99.0.4844.51" ]
     }, {
       "name" : "When I login with foobar and barfoo",
-      "uid" : "7e54298e76456399",
+      "uid" : "c822f35f69a986a5",
       "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
       "status" : "passed",
       "time" : {
-        "start" : 1647583718752,
-        "stop" : 1647583719308,
-        "duration" : 556
+        "start" : 1647590216260,
+        "stop" : 1647590216681,
+        "duration" : 421
       },
       "flaky" : false,
       "newFailed" : false,
@@ -73,13 +73,13 @@
       "parameters" : [ "chrome-99.0.4844.51" ]
     }, {
       "name" : "Then I should see a flash message saying Your username is invalid!",
-      "uid" : "3ad8983443758ddb",
+      "uid" : "1b63d9ccfa12816a",
       "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
       "status" : "passed",
       "time" : {
-        "start" : 1647583719308,
-        "stop" : 1647583719408,
-        "duration" : 100
+        "start" : 1647590216681,
+        "stop" : 1647590216747,
+        "duration" : 66
       },
       "flaky" : false,
       "newFailed" : false,
@@ -90,13 +90,13 @@
       "parameters" : [ "chrome-99.0.4844.51" ]
     }, {
       "name" : "",
-      "uid" : "f158397cc453f884",
+      "uid" : "a1cb12456a5b2e4d",
       "parentUid" : "fdbdc9ea7ee956858561e08f47b3a285",
       "status" : "passed",
       "time" : {
-        "start" : 1647583719408,
-        "stop" : 1647583719409,
-        "duration" : 1
+        "start" : 1647590216748,
+        "stop" : 1647590216748,
+        "duration" : 0
       },
       "flaky" : false,
       "newFailed" : false,

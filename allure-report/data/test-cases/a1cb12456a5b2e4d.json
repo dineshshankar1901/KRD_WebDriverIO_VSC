@@ -1,0 +1,86 @@
+{
+  "uid" : "a1cb12456a5b2e4d",
+  "name" : "",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.",
+  "historyId" : "c248e1a405df52687e365dfce617719d",
+  "time" : {
+    "start" : 1647590216748,
+    "stop" : 1647590216748,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.51"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e18977638f6eda5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647590216137,
+        "stop" : 1647590216138,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "665592fc5bb168ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647590216125,
+        "stop" : 1647590216126,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9fc692935ea8841d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647590214377,
+        "stop" : 1647590214378,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a1cb12456a5b2e4d.json",
+  "parameterValues" : [ "chrome-99.0.4844.51" ]
+}
